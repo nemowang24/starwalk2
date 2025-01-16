@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog about stargazing
+title: Welcome to stargazing
 ---
